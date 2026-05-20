@@ -4,7 +4,7 @@ const translations = {
     eyebrow: "Hong Kong CD Burning Service",
     title: "燒碟服務香港",
     intro:
-      "提供香港本地燒碟服務，主要服務觀塘區及東九龍，可將你的檔案燒錄成光碟，適合交通投訴、影住駕、資料備份或提交文件用途，最快即日起貨。收費 $20/1、$50/3，如需燒碟請 WhatsApp 56294422 查詢。",
+      "提供香港本地燒碟服務，主要服務觀塘區及東九龍，可將你的檔案燒錄成光碟，適合交通投訴、影住駕、車cam片、資料備份或提交文件用途，最快即日起貨。收費 $20/1、$50/3，如需燒碟請 WhatsApp 56294422 查詢。",
     deliveryTitle: "交收方法可選：",
     deliveryOption1: "1. 觀塘面交/觀塘上門自取",
     deliveryOption2: "2. 平郵",
@@ -22,7 +22,7 @@ const translations = {
     eyebrow: "Hong Kong CD Burning Service",
     title: "CD Burning Service Hong Kong",
     intro:
-      "Local disc burning service in Hong Kong, mainly serving Kwun Tong District and East Kowloon. We can burn your files to disc for traffic complaints, dashcam submissions, backups, or document submission, with same-day turnaround available. Pricing is $20/1 or $50/3. WhatsApp 56294422 for enquiries.",
+      "Local disc burning service in Hong Kong, mainly serving Kwun Tong District and East Kowloon. We can burn your files to disc for traffic complaints, dashcam videos, backups, or document submission, with same-day turnaround available. Pricing is $20/1 or $50/3. WhatsApp 56294422 for enquiries.",
     deliveryTitle: "Handover and delivery options:",
     deliveryOption1: "1. Kwun Tong handover / Kwun Tong self pick-up",
     deliveryOption2: "2. Local surface mail",
@@ -40,7 +40,7 @@ const translations = {
     eyebrow: "Hong Kong CD Burning Service",
     title: "烧碟服务香港",
     intro:
-      "提供香港本地烧碟服务，主要服务观塘区及东九龙，可将你的档案烧录成光碟，适合交通投诉、影住驾、资料备份或提交文件用途，最快即日起货。收费 $20/1、$50/3，如需烧碟请 WhatsApp 56294422 查询。",
+      "提供香港本地烧碟服务，主要服务观塘区及东九龙，可将你的档案烧录成光碟，适合交通投诉、影住驾、车cam片、资料备份或提交文件用途，最快即日起货。收费 $20/1、$50/3，如需烧碟请 WhatsApp 56294422 查询。",
     deliveryTitle: "可选交收方式：",
     deliveryOption1: "1. 观塘面交 / 观塘上门自取",
     deliveryOption2: "2. 平邮",
